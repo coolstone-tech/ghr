@@ -1,5 +1,5 @@
 {
-  "name": "ghr",
+  "name": "node-ghr",
   "version": "1.0.0",
   "description": "Run a file from a GitHub repository in your command line",
   "main": "index.js",
@@ -14,7 +14,6 @@
     "github",
     "cli"
   ],
-  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/coolstone-tech/ghr/issues"
