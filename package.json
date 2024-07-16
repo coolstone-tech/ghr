@@ -1,6 +1,6 @@
 {
   "name": "node-ghr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run a file from a GitHub repository in your command line",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,7 @@
     "url": "https://github.com/coolstone-tech/ghr/issues"
   },
   "homepage": "https://github.com/coolstone-tech/ghr#readme",
-  "bin": "./index.js"
+  "bin": {
+    "ghr": "./index.js"
+  }
 }
