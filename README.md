@@ -3,7 +3,7 @@ Run a file from a GitHub repository in your command line
 
 ### Installation
 ```bash
-sudo npm install -g ghr
+sudo npm install -g node-ghr
 ```
 ### Usage
 ```bash
